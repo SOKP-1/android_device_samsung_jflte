@@ -2113,7 +2113,7 @@ SectionDevice
         'RX6 DSM MUX':0:DSM_INV
         'LINEOUT2 Volume':1:83
         'LINEOUT4 Volume':1:83
-        'RX5 Digital Volume':2:63.0%
+        'RX5 Digital Volume':2:75.0%
     EndSequence
 
     DisableSequence
@@ -2141,7 +2141,7 @@ SectionDevice
         'RX6 DSM MUX':0:DSM_INV
         'LINEOUT2 Volume':1:100
         'LINEOUT4 Volume':1:100
-        'RX5 Digital Volume':2:67.7%
+        'RX5 Digital Volume':2:75.7%
         'ES325 RX2 Enable':1:1
     EndSequence
 
@@ -2207,7 +2207,7 @@ SectionDevice
         'RX4 DSM MUX':0:CIC_OUT
         'LINEOUT2 Volume':1:100
         'LINEOUT4 Volume':1:100
-        'RX5 Digital Volume':2:67.7%
+        'RX5 Digital Volume':2:70.7%
     EndSequence
 
     DisableSequence
@@ -2262,8 +2262,8 @@ SectionDevice
         'HPHR DAC Switch':1:1
         'HPHL Volume':1:100
         'HPHR Volume':1:100
-        'RX1 Digital Volume':2:64.5%
-        'RX2 Digital Volume':2:64.5%
+        'RX1 Digital Volume':2:73.5%
+        'RX2 Digital Volume':2:73.5%
         'COMP1 Switch':1:1
     EndSequence
 
